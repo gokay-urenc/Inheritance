@@ -1,0 +1,2 @@
+# Inheritance
+ Kalıtım. / Inheritance.
